@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshpal&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshpal" /> </p>
 
-- 🔭 I’m currently working on **Tip Calculator**
+- 🔭 I’m currently working on **myMap Application**
 
 - 🌱 I’m currently learning **Android Development with Kotlin**
 
 - 💬 Ask me about **Android, Tech**
 
-- 📫 How to reach me **divyanshp21775@gmail.com**
+- 📫 How to reach me **priyanshp21775@gmail.com**
 
 - ⚡ Fun fact **I am funny :(**
 
